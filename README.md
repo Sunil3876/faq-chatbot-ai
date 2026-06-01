@@ -23,6 +23,6 @@ An advanced, industry-level FAQ Chatbot built with **FastAPI**, **LangChain**, a
    cd faq-chatbot-ai
    Install required dependencies:
 
-2.Install required dependencies: pip install -r requirements.txt
-3.Run the FastAPI server: python main.py
+2. Install required dependencies: pip install -r requirements.txt
+3. Run the FastAPI server: python main.py
 4.Access the application: http://127.0.0.1:8000
